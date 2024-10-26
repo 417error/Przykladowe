@@ -1,3 +1,5 @@
+
+
 ====================
 Topic:
 homeassistant/sensor/sensorBedroomT/config
