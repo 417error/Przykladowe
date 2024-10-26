@@ -1,4 +1,4 @@
-
+Takie wpisy w MQTT Broker zanim zacznie się korzystać z MQTT...
 
 ====================
 Topic:
