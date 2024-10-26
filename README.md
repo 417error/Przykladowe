@@ -1,8 +1,9 @@
-Takie wpisy w MQTT Broker zanim zacznie się korzystać z MQTT...
+Takie wpisy w MQTT Broker zanim zacznie się korzystać z MQTT:
 
-====================
 Topic:
 homeassistant/sensor/sensorBedroomT/config
+
+a następnie:
 
 Payload:
 {
@@ -25,7 +26,9 @@ Payload:
       "configuration_url": "https://example.com/sensor_portal/config"
    }
 }
+
 ===================
+
 Topic:
 homeassistant/sensor/sensorBedroomH/config
 
@@ -46,7 +49,8 @@ Payload:
 ============================
 
 
-================= testy
+================= 
+testy
 
 homeassistant/sensor/sensorBedroom/state
 
